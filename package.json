@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/jspenaq/hiro#readme",
   "devDependencies": {
+    "@types/node": "^14.14.21",
     "ts-node-dev": "^1.1.1",
     "tslint": "^5.12.1",
     "typescript": "^3.3.3"
