@@ -1,2 +1,2 @@
-# hiro
-Hiro is a Udemy coupon grabber discord bot
+# Hiro
+Hiro is an Udemy coupon grabber discord bot
