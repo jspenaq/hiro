@@ -1,0 +1,29 @@
+{
+  "name": "hiro",
+  "version": "1.0.0",
+  "description": "Hiro is an Udemy coupon grabber discord bot",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/index.js",
+    "start:dev": "ts-node-dev --respawn -- index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jspenaq/hiro.git"
+  },
+  "keywords": [
+    "discord",
+    "udemy",
+    "coupon",
+    "bot",
+    "typescript"
+  ],
+  "author": "jspenaq - Juan Sebastian Peña",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jspenaq/hiro/issues"
+  },
+  "homepage": "https://github.com/jspenaq/hiro#readme"
+}
